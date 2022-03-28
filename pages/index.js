@@ -20,7 +20,7 @@ export default function Home() {
       <ImgCard 
         bg="#FDE8CA"
       >
-        <h3>This is a children in a tag</h3>
+        <h3>I love cats</h3>
         More stuff
         <hr />
         Yay
